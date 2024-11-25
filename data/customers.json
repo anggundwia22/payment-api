@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "username": "JohnDoe",
+    "password": "password123",
+    "balance": 896000
+  },
+  {
+    "id": 2,
+    "username": "JaneSmith",
+    "password": "password456",
+    "balance": 850000
+  },
+  {
+    "id": 3,
+    "username": "AliceJohnson",
+    "password": "password789",
+    "balance": 1200000
+  },
+  {
+    "id": 4,
+    "username": "BobBrown",
+    "password": "password321",
+    "balance": 500000
+  },
+  {
+    "id": 5,
+    "username": "CharlieDavis",
+    "password": "password654",
+    "balance": 1100000
+  },
+  {
+    "id": 6,
+    "username": "DianaGreen",
+    "password": "password987",
+    "balance": 700000
+  },
+  {
+    "id": 7,
+    "username": "EveWhite",
+    "password": "password159",
+    "balance": 900000
+  },
+  {
+    "id": 8,
+    "username": "FrankBlack",
+    "password": "password753",
+    "balance": 400000
+  },
+  {
+    "id": 9,
+    "username": "GraceHall",
+    "password": "password852",
+    "balance": 1300000
+  },
+  {
+    "id": 10,
+    "username": "HankAllen",
+    "password": "password369",
+    "balance": 600000
+  }
+]
